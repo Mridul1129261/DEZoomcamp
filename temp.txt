@@ -1,1 +1,9 @@
 winpty docker run -it -e POSTGRES_USER="root" -e POSTGRES_PASSWORD="root" -e POSTGRES_DB="ny_taxi" -v /c/Users/91962/Desktop/DockerDE/ny_taxi_postgres_data:/var/lib/postgresql/data -p 5432:5432 postgres:13
+
+
+--iidfile string
+3
+20530
+2019-01-15
+2: 1282 ; 3: 254
+
